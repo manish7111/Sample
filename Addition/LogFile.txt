@@ -1,0 +1,2 @@
+﻿2020-09-15 16:24:42.4847|DEBUG|Addition.NLog|Debug Successfull : Sum()
+2020-09-15 16:24:42.5148|INFO|Addition.NLog|Sum Method passed, Result59
